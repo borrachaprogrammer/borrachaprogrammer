@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 
 
-  👨🏽‍💻 I am currently studying Computer Engineering I am currently learning JavaScript
+  👨🏽‍💻 I am currently studying Computer Engineering I am currently learning JavaScript <br />
   🤔 Ask me about anything, I'm happy to help;
   📝 mailbox Send an email to Matheus_gonzaga77@hotmail.com to contact me.
   
