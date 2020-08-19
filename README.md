@@ -2,6 +2,8 @@
 <a href="https://www.instagram.com/matheusgonzaaga/">
   <img align=""left" alt="Matheus Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
                                                                                                                                 </a>
+    <a href="https://twitter.com/borrachaum">
+  <img align="left" alt="Matheus Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     <br />
     <br />
  Hello, I'm Matheus Gonzaga, Computer Engineering student at USF, currently studying Front-End development.
