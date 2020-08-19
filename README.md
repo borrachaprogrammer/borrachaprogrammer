@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
   👨🏽‍💻 I am currently studying Computer Engineering I am currently learning JavaScript <br />
-  🤔 Ask me about anything, I'm happy to help;
+  🤔 Ask me about anything, I'm happy to help; <br />
   📝 mailbox Send an email to Matheus_gonzaga77@hotmail.com to contact me.
   
   **Languages and Tools:**
