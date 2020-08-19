@@ -6,7 +6,7 @@
     <br />
  Hello, I'm Matheus Gonzaga, Computer Engineering student at USF, I'm currently a Front-End developer.
   
-    <img align="right" alt="Gift" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+     <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
     
     **Talking about Personal Stuffs:**
     👨🏽‍💻 I am currently studying Computer Engineering I am currently learning JavaScript
