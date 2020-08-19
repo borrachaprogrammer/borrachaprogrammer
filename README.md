@@ -4,7 +4,7 @@
                                                                                                                                 </a>
     <br />
     <br />
- Hello, I'm Matheus Gonzaga, Computer Engineering student at USF, I'm currently a Front-End developer.
+ Hello, I'm Matheus Gonzaga, Computer Engineering student at USF, currently studying Front-End development.
   
     
     
